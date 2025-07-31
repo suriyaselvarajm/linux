@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "Hello"
+=======
+echo "test1"
+
+-
+>>>>>>> 60d570d (3)
