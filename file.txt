@@ -8,3 +8,5 @@ last line
 echo "fetch"
 
 echo rebase
+
+pull
