@@ -10,3 +10,4 @@ echo "fetch"
 echo rebase
 
 pull
+hi
